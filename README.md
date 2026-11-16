@@ -4,6 +4,7 @@
 * Paulo Thomaz Filho - RGM: 48360503
 * Felipe da Silva - RGM: 47121106 
 * Kauan Bruno  - RGM: 48215261
+* Enzo Costa gomes - RGM 47022639
 
 ## Instruções de Execução
 1. Certifique-se de ter um compilador C instalado (como GCC).
